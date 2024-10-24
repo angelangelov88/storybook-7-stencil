@@ -12,8 +12,8 @@
 }
 
 .main {
-  background-color: aqua !important;
-  color: bisque !important;
+  background-color: red;
+  color: bisque;
 }
 .button {
   cursor: pointer;
